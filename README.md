@@ -32,7 +32,7 @@ El proyecto está compuesto por los siguientes archivos:
 
 El diagrama de clases UML para el sistema es el siguiente:
 
-![Diagrama de Clases](https://res-console.cloudinary.com/dsn4ukokp/thumbnails/v1/image/upload/v1724473149/RElBR1JBTUFfVU1MX3R2czRwbg==/drilldown)
+![Diagrama de Clases](https://res.cloudinary.com/dsn4ukokp/image/upload/v1724473149/DIAGRAMA_UML_tvs4pn.png)
 
 # Instalación y Ejecución
 
